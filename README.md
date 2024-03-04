@@ -22,3 +22,4 @@ Open a web browser and visit http://localhost:5000 to access the Regex Matcher A
 
 Deployment on AWS EC2
 The app has been deployed on AWS EC2 instances to ensure accessibility and scalability. To access the deployed app, simply visit the provided URL.
+`http://52.66.204.158:5000/`
