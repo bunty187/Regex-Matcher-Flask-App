@@ -11,11 +11,9 @@ Welcome to the Regex Matcher App developed by the interns at Innomatics Research
 6. To run the Flask app locally, follow these steps:
 
 * Clone the repository to your local machine:
-* 
 `git clone https://github.com/your_username/regex-matcher-app.git`
 
 * Navigate to the project directory:
-* 
 `cd regex-matcher-app`
 
 * Run the Flask app:
