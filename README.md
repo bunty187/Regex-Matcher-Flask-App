@@ -2,13 +2,13 @@
 
 Welcome to the Regex Matcher App developed by the interns at Innomatics Research Labs! This Flask-based application allows users to input text and a regular expression pattern to instantly see the results displayed below. Additionally, it features a built-in email address validity checker for immediate feedback.
 
-Features
-Input text and a regular expression pattern to match against.
-View instant results of the matching process.
-Check the validity of email addresses.
-Deployed on AWS EC2 for accessibility and scalability.
-How to Run the Flask App
-To run the Flask app locally, follow these steps:
+* **Features**
+1. Input text and a regular expression pattern to match against.
+2. View instant results of the matching process.
+3. Check the validity of email addresses.
+4. Deployed on AWS EC2 for accessibility and scalability.
+5. How to Run the Flask App
+6. To run the Flask app locally, follow these steps:
 
 Clone the repository to your local machine:
 `git clone https://github.com/your_username/regex-matcher-app.git`
