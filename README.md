@@ -28,4 +28,4 @@ This Flask-based application allows users to input text and a regular expression
 
 * The app has been deployed on AWS EC2 instances to ensure accessibility and scalability. To access the deployed app, simply visit the provided URL.
 
-`http://52.66.204.158:5000/`
+http://52.66.204.158:5000/
