@@ -1,6 +1,6 @@
 # Regex Matcher App using Flask
 
-Welcome to the Regex Matcher App developed by the interns at Innomatics Research Labs! This Flask-based application allows users to input text and a regular expression pattern to instantly see the results displayed below. Additionally, it features a built-in email address validity checker for immediate feedback.
+This Flask-based application allows users to input text and a regular expression pattern to instantly see the results displayed below. Additionally, it features a built-in email address validity checker for immediate feedback.
 
 **Features**
 1. Input text and a regular expression pattern to match against.
